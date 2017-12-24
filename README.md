@@ -31,3 +31,7 @@ http://shakebuild.com/
 ```
 stack install shake
 ```
+
+## Links
+
+- https://hackage.haskell.org/package/shell-conduit
