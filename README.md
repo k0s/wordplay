@@ -17,4 +17,8 @@ https://en.wikipedia.org/wiki/Jotto .
 
 ## Building
 
+Let's try out the Shake build system:
 http://shakebuild.com/
+```
+stack install shake
+```
