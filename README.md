@@ -11,4 +11,10 @@ installed.
 
 ## Jotto
 
-https://en.wikipedia.org/wiki/Jotto
+Jotto is a game;
+read more about it here:
+https://en.wikipedia.org/wiki/Jotto .
+
+## Building
+
+http://shakebuild.com/
