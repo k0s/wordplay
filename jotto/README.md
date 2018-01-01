@@ -11,3 +11,5 @@ To build:
 ```
 stack build
 ```
+
+You will have to run `stack init` first.
